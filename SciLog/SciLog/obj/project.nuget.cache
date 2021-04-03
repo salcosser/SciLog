@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gr73BIF0PuzM9ppKsG35zKudxQ23qka0/DrfhKare6CHIQGWPdNLG7WNoLa5w9UV+oklA64EsaVqmQyHGtY3dA==",
+  "success": true,
+  "projectFilePath": "C:\\SANDBOX\\SciLog\\SciLog\\SciLog\\SciLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\samal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
